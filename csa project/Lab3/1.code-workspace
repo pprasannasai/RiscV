@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../SuperBlink"
+		},
+		{
+			"name": "lab1",
+			"path": "../lab1"
+		},
+		{
+			"name": "Lab2",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
