@@ -8,7 +8,7 @@
 .equ GPIO_RGB_PINS, 0x680000 # All 3 LED's bit offset
 .equ GPIO_RED_LED, 0x400000 # Red LED offset
 .equ GPIO_BLUE_LED, 0x200000 # Blue LED offset
-.equ GPIO_GREEN_LED, 0x080000 # Green LED offset
+.equ GPIO_GREEN_LED, 0x080000 # Green LED offset 
 
 .equ PIN_2, 0x40000 # GPIO pin 2 offset.
 
